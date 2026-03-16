@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Treena's homepage
 description: Bookmark this to keep an eye on my project updates!
+- name: Bundler CLI
+  uses: CultureHQ/actions-bundler@v1.0.0
